@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c450fb8f-717d-44c2-bdc7-ed93e53f94fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/NLP-python-basics/practice.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/NLP-python-basics/vocabulary_and_matching.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/POS-basics/part_of_speech_basics.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564552196796</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="practice">
+      <created>1564561386309</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564561386309</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +163,7 @@
     <MESSAGE value="tokenization" />
     <MESSAGE value="Lemmatization" />
     <MESSAGE value="stop words" />
-    <option name="LAST_COMMIT_MESSAGE" value="stop words" />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
 </project>
