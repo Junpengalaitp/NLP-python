@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c450fb8f-717d-44c2-bdc7-ed93e53f94fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/NLP-python-basics/stop_words.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/NLP-python-basics/practice.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/NLP-python-basics/vocabulary_and_matching.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/NLP-python-basics/Lemmatization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/NLP-python-basics/Lemmatization.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564545033422</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="stop words">
+      <created>1564552196796</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564552196796</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +156,7 @@
     <MESSAGE value="spaCy basics" />
     <MESSAGE value="tokenization" />
     <MESSAGE value="Lemmatization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lemmatization" />
+    <MESSAGE value="stop words" />
+    <option name="LAST_COMMIT_MESSAGE" value="stop words" />
   </component>
 </project>
