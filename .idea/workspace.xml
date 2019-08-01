@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c450fb8f-717d-44c2-bdc7-ed93e53f94fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/POS-basics/visualizing_ner.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/POS-basics/sentence_segmentation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,7 +105,7 @@
       <workItem from="1564525116024" duration="84000" />
       <workItem from="1564525218581" duration="215000" />
       <workItem from="1564530491721" duration="355000" />
-      <workItem from="1564641954872" duration="5808000" />
+      <workItem from="1564641954872" duration="8843000" />
     </task>
     <task id="LOCAL-00001" summary="spaCy basics">
       <created>1564443845573</created>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564647151099</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="NER visualizing">
+      <created>1564648386990</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564648386990</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +198,7 @@
     <MESSAGE value="poc basics" />
     <MESSAGE value="pos visualization" />
     <MESSAGE value="Named Entity Recognition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Named Entity Recognition" />
+    <MESSAGE value="NER visualizing" />
+    <option name="LAST_COMMIT_MESSAGE" value="NER visualizing" />
   </component>
 </project>
