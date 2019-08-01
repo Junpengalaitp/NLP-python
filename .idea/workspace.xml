@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c450fb8f-717d-44c2-bdc7-ed93e53f94fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/POS-basics/part_of_speech_basics.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/POS-basics/pos_visualization.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,6 +105,7 @@
       <workItem from="1564525116024" duration="84000" />
       <workItem from="1564525218581" duration="215000" />
       <workItem from="1564530491721" duration="355000" />
+      <workItem from="1564641954872" duration="1111000" />
     </task>
     <task id="LOCAL-00001" summary="spaCy basics">
       <created>1564443845573</created>
@@ -141,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564561386309</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="poc basics">
+      <created>1564569055711</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564569055711</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +160,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -164,6 +174,7 @@
     <MESSAGE value="Lemmatization" />
     <MESSAGE value="stop words" />
     <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <MESSAGE value="poc basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="poc basics" />
   </component>
 </project>
